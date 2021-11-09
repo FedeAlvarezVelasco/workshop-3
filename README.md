@@ -62,3 +62,4 @@ This component also uses the `Icon` component — the specific ID will be provid
 
 This component requires bold text. You can achieve this look by using `font-weight: 700`.
 # mini-component-workshop
+# mini-component-workshop
